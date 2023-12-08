@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DavidMondero-Block1-Quiz</string>
+    <string name="this_is_a_quiz">This is a Quiz</string>
+    <string name="click_me">Click Me</string>
+    <string name="hello">Hello!</string>
 </resources>
