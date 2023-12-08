@@ -3,4 +3,6 @@
     <string name="this_is_a_quiz">This is a Quiz</string>
     <string name="click_me">Click Me</string>
     <string name="hello">Hello!</string>
+    <string name="go_back">Go Back</string>
+    <string name="you_clicked_nthe_button">You clicked\nthe button!</string>
 </resources>
